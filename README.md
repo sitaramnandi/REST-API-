@@ -2,9 +2,9 @@ Django REST API with CRUD Operations
 
 Prerequisites
 Make sure you have the following installed:
-Python 3.x
-pip
-MySQL)
+Python 3.x,
+pip,
+MySQL
 
 Step 1: Create a Virtual Environment: virtualenv env
 Activate the virtual environment: env\Scripts\activate
