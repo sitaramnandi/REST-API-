@@ -14,7 +14,8 @@ pip install django==4.1 djangorestframework,mysqlclient,django-redis,
 pip install djangorestframework-simplejwt.
 pip install loguru
 pip install pytest pytest-django
-crearatte model class and serialer class.
+Step 3: Run Migrations
+create model class and serialer class.
 py manage.py makemigrations
 py manage.py migrate
 
